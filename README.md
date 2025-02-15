@@ -1,4 +1,4 @@
-# FCFS_RoundRobin
+# CPU_Scheduling_Algorithms_Simulation
 
 This project is a Java-based simulator that demonstrates various CPU scheduling algorithms. The simulator supports the following algorithms:
 
