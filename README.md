@@ -13,3 +13,8 @@ The simulator reads process details from the user (arrival times, burst times, a
 - Finish time for each process
 - Waiting time for each process
 - Average waiting time
+
+### Prerequisites
+
+- Java Development Kit (JDK) 1.8 or higher is installed.
+- An IDE (e.g., IntelliJ IDEA, Eclipse) or a command-line interface is available.
